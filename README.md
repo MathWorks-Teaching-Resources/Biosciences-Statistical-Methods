@@ -1,6 +1,6 @@
 # Biosciences: Statistical Methods
 
-[![View Module on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]([https://www.mathworks.com/matlabcentral/fileexchange/XXXX](https://www.mathworks.com/matlabcentral/fileexchange/163691-biosciences-statistical-methods)) or
+[![View Module on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]([https://www.mathworks.com/matlabcentral/fileexchange/163691-biosciences-statistical-methods]) or
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S1_Introduction.mlx)
 
 This curriculum module uses biological data to teach fundamental concepts of statistics, data analysis, and data visualization. 
