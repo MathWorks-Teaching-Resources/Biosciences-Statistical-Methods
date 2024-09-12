@@ -1,7 +1,7 @@
 # Biosciences: Statistical Methods
 
 [![View Module on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/163691-biosciences-statistical-methods) or
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S1_Introduction.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Statistical-Methods&file=S1_Introduction.mlx)
 
 This curriculum module uses biological data to teach fundamental concepts of statistics, data analysis, and data visualization. 
 
@@ -28,29 +28,29 @@ To learn more about opening and using MATLAB, see the accompanying [Getting Star
 Notes: These scripts can all be run independently, though we recommend going through these live scripts in order. These live scripts are intended to be used with output inline. To change the output, go to the View tab of the toolstrip, and select ![](Images/outputinline.png)  Output Inline. 
 The scripts have areas for the students to interact with the code ![](Images/try.png) . There will also be exercises ![](Images/exercise.png)  in most scripts and the answers will be provided at the end.  A problem set for students to practice these concepts is also included here. Throughout the scripts, there are also moments to students to reflect on what they've learned or on what the data means ![](Images/reflect.png) . Particularly interesting examples of how these concepts are used in "real-world" biology are also pointed out ![](Images/app.png).
 
-[Introduction](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S1_Introduction.mlx)
+[Introduction](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Statistical-Methods&file=S1_Introduction.mlx)
 - Learning objective: Students learn about why statistical methods are important in biology. 
 
-[Load and clean the data](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S2_Load_clean_data.mlx)
+[Load and clean the data](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Statistical-Methods&file=S2_Load_clean_data.mlx)
 - Learning objective: Students will learn how to clean data and prepare a dataset for analysis.
 
-[Further explore and visualize penguins](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S3_Exploring_data.mlx)
+[Further explore and visualize penguins](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Statistical-Methods&file=S3_Exploring_data.mlx)
 - Learning objective: Students will learn how to use histograms and box plots to understand the distribution of data.
 
-[Descriptive statistics](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S4_Descriptive_stats.mlx)
+[Descriptive statistics](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Statistical-Methods&file=S4_Descriptive_stats.mlx)
 - Learning objective: Students will learn to calculate and interpret descriptive statistics including mean, median, and standard deviation.
 
-[Predictive modeling](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S5_Predictive_modeling.mlx)
+[Predictive modeling](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Statistical-Methods&file=S5_Predictive_modeling.mlx)
 - Learning objective:  Students will learn how to fit linear regression models to data and make predictions about the data.
 
-[Correlations](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S6_Correlations.mlx)
+[Correlations](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Statistical-Methods&file=S6_Correlations.mlx)
 - Learning objective: Students will learn how to calculate and visualize linear correlations between variables. 
 
-[Hypothesis testing](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S7_Hypothesis_testing.mlx)
+[Hypothesis testing](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Statistical-Methods&file=S7_Hypothesis_testing.mlx)
 - Learning objective: Students will learn to create null and alternate hypotheses, test them using t-tests, and interpret p-values. 
 
-[Problem set](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S8_Problem_Set.mlx)
-- [Problem set answers](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-statistics&file=S9_Problem_set_answers.mlx)
+[Problem set](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Statistical-Methods&file=S8_Problem_Set.mlx)
+- [Problem set answers](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Statistical-Methods&file=S9_Problem_set_answers.mlx)
 
 ## Related Courseware Modules
 
