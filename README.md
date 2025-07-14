@@ -11,7 +11,7 @@ This module will teach students how to use statistical methods in MATLAB&reg; to
 
 This module utilizes the Palmer penguins [1] dataset, which contains data about three different species of penguin in Antarctica. 
 
-<img src="Images/Gentoo_penguin_in_Edinburgh_Zoo_02.jpg" width=50% height=50%>
+<img src="Images/Gentoo_penguin_in_Edinburgh_Zoo_02.jpg" width=50%>
 
 
 [A Gentoo penguin spreading its flippers](https://commons.wikimedia.org/wiki/File:Gentoo_penguin_in_Edinburgh_Zoo_02.jpg)
