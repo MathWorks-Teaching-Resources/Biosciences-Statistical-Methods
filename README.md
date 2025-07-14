@@ -54,8 +54,10 @@ The scripts have areas for the students to interact with the code ![](Images/try
 
 ## Related Courseware Modules
 
-Link to 5 other modules here once set up. 
-
+- Biosciences: Working With Data [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Working-With-Data&file=S1_Introduction.mlx)
+- [Biosciences: Image Processing](https://www.mathworks.com/matlabcentral/fileexchange/163701-biosciences-image-processing)  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Image-Processing&file=S1_Introduction.mlx)
+- [Biosciences: Machine Learning](https://www.mathworks.com/matlabcentral/fileexchange/163696-biosciences-machine-learning)  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Machine-Learning&file=S1_Introduction.mlx)
+- [Biosciences: Genetics](https://www.mathworks.com/matlabcentral/fileexchange/163706-biosciences-genetics)  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Genetics&file=S1_Introduction.mlx)
 ## Products 
 
 MATLAB®, Statistics and Machine Learning Toolbox™, Curve Fitting Toolbox™
@@ -65,7 +67,7 @@ MATLAB®, Statistics and Machine Learning Toolbox™, Curve Fitting Toolbox™
 
 ## License
 
-The License for this project is in the [License.txt](license.txt) file in this repository. 
+The License for this project is in the [LICENSE.md](LICENSE.md) file in this repository. 
 
 ##
 _&copy; Copyright 2023 The MathWorks, Inc._
